@@ -1,7 +1,11 @@
 Sample NFT Contract Deployed on Rinkeby Testnet at address: 0x0516fcf4C42e8e89f10F4eD2b0305c59c2330b8D
+
 I didn't go through the process of displaying the images/videos, just printed the links.
+
 The sample contract is for the Lindsey Price Drop, the other contract will be nearly identical (other than potentially adding in auction functionality, but that shouldn't affect this sprint)
+
 I still don't have access to all the completed/finalized artwork, so only 2/7 NFT's have actual metadata on IPFS.
+
 
 **
 The current flow (given such a low number of nft's per collection):**
