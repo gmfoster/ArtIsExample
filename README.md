@@ -7,8 +7,7 @@ The sample contract is for the Lindsey Price Drop, the other contract will be ne
 I still don't have access to all the completed/finalized artwork, so only 2/7 NFT's have actual metadata on IPFS.
 
 
-**
-The current flow (given such a low number of nft's per collection):**
+**The current flow (given such a low number of nft's per collection):**
 1. Deploy Contract 
     - This will mint all NFT's in collection to owner's (or artist's) wallet
 2. User Purchases NFT   
