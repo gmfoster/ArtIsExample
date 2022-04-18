@@ -11,7 +11,7 @@ I still don't have access to all the completed/finalized artwork, so only 2/7 NF
 1. Deploy Contract 
     - This will mint all NFT's in collection to owner's (or artist's) wallet
 2. User Purchases NFT   
-    - Calls purchase(uint256 id) on the NFT contract
+    - Calls purchase(uint256 id) on the NFT contract, passing the associated id
     -  purchase() will ensure the required amount of ETH is included with the transaction, ensure the NFT is still owned by the artist/creator; if those conditions are met it will then transfer the ETH to a specified address and transfer the NFT to the user wallet.
 
 
